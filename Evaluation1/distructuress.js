@@ -8,6 +8,8 @@ const morePlaces = ["kochi", "hyderabad", "Shimla", "Srinagar"];
 const [firstElem, ...restOfThePlace] = places;
 console.log(restOfThePlace);
 
+
+
 // ============================================================================= //
 
 // insert that element at the start of the morePlaces array and print the new array
