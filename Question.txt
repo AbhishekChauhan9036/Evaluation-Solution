@@ -1,0 +1,39 @@
+1. You are a new joinee in a project, you completed KT and training, but you got stuck with an issue and unable to proceed further? What will you do ?
+
+
+
+
+2. Your application is running very slow, how will you find where exactly the problem is?
+Recorded: 180 seconds
+
+Uploaded
+3. Describe your project that was failure. Who is to blame for that failure? How you could have prevented the same?
+Recorded: 120 seconds
+
+Uploaded
+4. Mention the logic, How you would calculate Today's Date + 500 days = DD/MM/YYYY without using Date function or any inbuilt function
+Recorded: 180 seconds
+
+Uploaded
+5. Explain how you solved a technical(Software related) difficult prblem/challenge/complex problem recently?
+Recorded: 120 seconds
+
+Uploaded
+6. How did you develop an interest towards coding? What are some of the best practices that you follow and How you stay updated ?
+Recorded: 120 seconds
+
+Uploaded
+7. What are your favorite technologies? Are you currently learning any new technologies ? Are you flexible switching/changing to another technology? (Please mention the names of the technology like dotnet, java, etc.)
+Recorded: 120 seconds
+
+Uploaded
+8. To your 5 year old cousin, explain any complex technical term like (OOPS/Memory leak/multithreading)
+Recorded: 120 seconds
+
+Uploaded
+9. Explain in detail about a software project/coding competitions you won outside the college curriculum for your own interest/learning
+Recorded: 120 seconds
+
+Uploaded
+10. Tell me a time when you faced difficulty in making someone understand what you actually meant.
+Recorded: 120 seconds
